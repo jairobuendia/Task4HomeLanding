@@ -21,7 +21,7 @@ Landing Page para presentar la aplicación, cumpliendo con los requisitos citado
 <img height="485px"src="https://user-images.githubusercontent.com/55530657/174897436-bc740a65-af47-4693-acda-5dc60a367c91.png">
 
 ## :pager: &nbsp;Modelos Figma
-:computer:&nbsp;[DISEÑO ORDENADOR](https://www.figma.com/proto/10GV9V1EKRjN7avvJrNpm1/FigmaTask4Home?node-id=1%3A2&scaling=contain&page-id=0%3A1)&nbsp;:computer:
+:computer :&nbsp;[DISEÑO ORDENADOR](https://www.figma.com/proto/10GV9V1EKRjN7avvJrNpm1/FigmaTask4Home?node-id=1%3A2&scaling=contain&page-id=0%3A1)&nbsp;:computer:
 <br>
 :iphone: &nbsp;[DISEÑO MÓVIL](https://www.figma.com/file/ngEmTWP6Z4hpDzCzyDKOaO/FigmaTask4HomeMobile)&nbsp;:iphone:
 <br>
