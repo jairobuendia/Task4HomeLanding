@@ -25,6 +25,7 @@ Landing Page para presentar la aplicación, cumpliendo con los requisitos citado
 <br>
 :iphone: &nbsp;[DISEÑO MÓVIL](https://www.figma.com/file/ngEmTWP6Z4hpDzCzyDKOaO/FigmaTask4HomeMobile)&nbsp;:iphone:
 <br>
+:page_with_curl: &nbsp;[PDF Explicación](https://github.com/jairobuendia/Task4HomeLanding/blob/main/FigmaTask4Home.pdf)
 ## :books: &nbsp;Bibliografía
 :point_right:&nbsp;[Angular](https://angular.io/docs)
 <br>
