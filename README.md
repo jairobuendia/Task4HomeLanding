@@ -21,11 +21,11 @@ Landing Page para presentar la aplicación, cumpliendo con los requisitos citado
 <img height="485px"src="https://user-images.githubusercontent.com/55530657/174897436-bc740a65-af47-4693-acda-5dc60a367c91.png">
 
 ## :pager: &nbsp;Modelos Figma
-[DISEÑO ORDENADOR](https://www.figma.com/proto/10GV9V1EKRjN7avvJrNpm1/FigmaTask4Home?node-id=1%3A2&scaling=contain&page-id=0%3A1)&nbsp;:computer:
+[DISEÑO ORDENADOR](https://www.figma.com/proto/10GV9V1EKRjN7avvJrNpm1/FigmaTask4Home?node-id=1%3A2&scaling=contain&page-id=0%3A1)&nbsp;&nbsp;:computer:
 <br>
-[DISEÑO MÓVIL](https://www.figma.com/file/ngEmTWP6Z4hpDzCzyDKOaO/FigmaTask4HomeMobile)&nbsp;:iphone:
+[DISEÑO MÓVIL](https://www.figma.com/file/ngEmTWP6Z4hpDzCzyDKOaO/FigmaTask4HomeMobile)&nbsp;&nbsp;:iphone:
 <br>
-[PDF Explicación](https://github.com/jairobuendia/Task4HomeLanding/blob/main/FigmaTask4Home.pdf):page_with_curl:
+[PDF Explicación](https://github.com/jairobuendia/Task4HomeLanding/blob/main/FigmaTask4Home.pdf)&nbsp;&nbsp;:page_with_curl:
 <br>
 ## :books: &nbsp;Bibliografía
 :point_right:&nbsp;[Angular](https://angular.io/docs)
